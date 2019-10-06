@@ -6,20 +6,16 @@ public class LevelGeneration : MonoBehaviour
 {
     public Transform[] startingPositions;
     public GameObject[] rooms; // index 0:LR, index 1:LRB, index 2:LRT, index 3: LRBT
-    
+    public GameObject player;
 
     private int direction;
     public float moveAmount;
-
-    private float timeBtwRoom;
-    public float startTimeBtwRoom = 25f;
 
     public float minX;
     public float maxX;
     public float minY;
 
     public bool stopGeneration;
-    private bool firstRoom = true;
 
     public LayerMask room;
 
@@ -27,27 +23,18 @@ public class LevelGeneration : MonoBehaviour
 
     private void Start()
     {
+        Vector3 offset = new Vector3(3f, 3f);
         int randStartingPos = Random.Range(0, startingPositions.Length);
         transform.position = startingPositions[randStartingPos].position;
         Instantiate(rooms[0], transform.position, Quaternion.identity);
+        Instantiate(player, transform.position - offset, Quaternion.identity);
 
         direction = Random.Range(1, 6);
     }
 
     private void Update()
     {
-        if(timeBtwRoom <= 0)
-        {
-            Move();
-            timeBtwRoom = startTimeBtwRoom;
-        }
-        else
-        {
-            timeBtwRoom -= Time.deltaTime;
-        }
-        
-            
-       
+        Move();
     }
 
     private void Move()

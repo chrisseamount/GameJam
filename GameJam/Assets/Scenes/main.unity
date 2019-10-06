@@ -131,7 +131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9258309}
   - component: {fileID: 9258308}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (64)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -178,7 +178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 29759943}
   - component: {fileID: 29759942}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (22)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -225,7 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 88591325}
   - component: {fileID: 88591324}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (27)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -272,7 +272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 102154273}
   - component: {fileID: 102154272}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (20)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -319,7 +319,7 @@ GameObject:
   m_Component:
   - component: {fileID: 105815820}
   - component: {fileID: 105815821}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (2)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -366,7 +366,7 @@ GameObject:
   m_Component:
   - component: {fileID: 106448685}
   - component: {fileID: 106448684}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (12)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -413,7 +413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 115209644}
   - component: {fileID: 115209643}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (14)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -460,7 +460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 136294522}
   - component: {fileID: 136294521}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (61)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -507,7 +507,7 @@ GameObject:
   m_Component:
   - component: {fileID: 163250570}
   - component: {fileID: 163250569}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (59)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -554,7 +554,7 @@ GameObject:
   m_Component:
   - component: {fileID: 186227198}
   - component: {fileID: 186227197}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (11)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -601,7 +601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214728004}
   - component: {fileID: 214728003}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (17)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -648,7 +648,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214995648}
   - component: {fileID: 214995647}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (55)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -694,7 +694,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 218214213}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -789,7 +789,7 @@ GameObject:
   m_Component:
   - component: {fileID: 227052445}
   - component: {fileID: 227052444}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (16)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -836,7 +836,7 @@ GameObject:
   m_Component:
   - component: {fileID: 228072854}
   - component: {fileID: 228072853}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (60)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -883,7 +883,7 @@ GameObject:
   m_Component:
   - component: {fileID: 233431251}
   - component: {fileID: 233431252}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (1)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -930,7 +930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 241437593}
   - component: {fileID: 241437592}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (52)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -977,7 +977,7 @@ GameObject:
   m_Component:
   - component: {fileID: 258675683}
   - component: {fileID: 258675682}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Level Generation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1018,8 +1018,8 @@ MonoBehaviour:
   - {fileID: 1658255356690221289, guid: cdcb9a9419e469345be4bb9b3698c0b2, type: 3}
   - {fileID: 3049114499747111276, guid: 460e0b11dee45a842ac96b134d8fe784, type: 3}
   - {fileID: 8728103578220842122, guid: 709daa4eddbd54a44af7c37cb6249ea9, type: 3}
+  player: {fileID: 7755079825800318317, guid: 2fac68e6d442c7c46a47b354bfd10d81, type: 3}
   moveAmount: 10
-  startTimeBtwRoom: 0.25
   minX: 0
   maxX: 70
   minY: -40
@@ -1051,7 +1051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 358660684}
   - component: {fileID: 358660685}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (5)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1098,7 +1098,7 @@ GameObject:
   m_Component:
   - component: {fileID: 373980891}
   - component: {fileID: 373980890}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (15)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1145,7 +1145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 394829325}
   - component: {fileID: 394829324}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (35)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1192,7 +1192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 406485804}
   - component: {fileID: 406485803}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (50)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1239,7 +1239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 494437713}
   - component: {fileID: 494437712}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (63)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1286,7 +1286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 533000009}
   - component: {fileID: 533000008}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (44)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1333,7 +1333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 579592572}
   - component: {fileID: 579592571}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (18)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1380,7 +1380,7 @@ GameObject:
   m_Component:
   - component: {fileID: 596749457}
   - component: {fileID: 596749456}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (13)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1427,7 +1427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 632472672}
   - component: {fileID: 632472671}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (21)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1583,7 +1583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 702471356}
   - component: {fileID: 702471355}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (30)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1630,7 +1630,7 @@ GameObject:
   m_Component:
   - component: {fileID: 732107062}
   - component: {fileID: 732107061}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (42)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1677,7 +1677,7 @@ GameObject:
   m_Component:
   - component: {fileID: 752888594}
   - component: {fileID: 752888593}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (10)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1724,7 +1724,7 @@ GameObject:
   m_Component:
   - component: {fileID: 798557932}
   - component: {fileID: 798557931}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (38)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1771,7 +1771,7 @@ GameObject:
   m_Component:
   - component: {fileID: 843441381}
   - component: {fileID: 843441380}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (40)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1818,7 +1818,7 @@ GameObject:
   m_Component:
   - component: {fileID: 848312008}
   - component: {fileID: 848312007}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (29)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1865,7 +1865,7 @@ GameObject:
   m_Component:
   - component: {fileID: 875578300}
   - component: {fileID: 875578301}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (8)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1912,7 +1912,7 @@ GameObject:
   m_Component:
   - component: {fileID: 892130398}
   - component: {fileID: 892130397}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (31)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -1959,7 +1959,7 @@ GameObject:
   m_Component:
   - component: {fileID: 901262696}
   - component: {fileID: 901262695}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (47)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2006,7 +2006,7 @@ GameObject:
   m_Component:
   - component: {fileID: 901589204}
   - component: {fileID: 901589205}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (3)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2053,7 +2053,7 @@ GameObject:
   m_Component:
   - component: {fileID: 913635087}
   - component: {fileID: 913635086}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (36)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2100,7 +2100,7 @@ GameObject:
   m_Component:
   - component: {fileID: 944062256}
   - component: {fileID: 944062255}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (46)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2147,7 +2147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 966259143}
   - component: {fileID: 966259142}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (41)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2194,7 +2194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 996937645}
   - component: {fileID: 996937644}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (32)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2241,7 +2241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 999693070}
   - component: {fileID: 999693069}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (28)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2322,7 +2322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1073577489}
   - component: {fileID: 1073577488}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (34)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2369,7 +2369,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1081607012}
   - component: {fileID: 1081607011}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (33)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2416,7 +2416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1124533990}
   - component: {fileID: 1124533989}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (24)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2463,7 +2463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166387408}
   - component: {fileID: 1166387409}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (4)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2510,7 +2510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1200296379}
   - component: {fileID: 1200296378}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (53)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2557,7 +2557,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1232672468}
   - component: {fileID: 1232672467}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (49)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2604,7 +2604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1267073049}
   - component: {fileID: 1267073048}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (45)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2651,7 +2651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1352807913}
   - component: {fileID: 1352807912}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (39)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2698,7 +2698,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1402658961}
   - component: {fileID: 1402658960}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (48)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2745,7 +2745,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1409036487}
   - component: {fileID: 1409036486}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (58)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2792,7 +2792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1441117140}
   - component: {fileID: 1441117139}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (43)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2948,7 +2948,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1470646814}
   - component: {fileID: 1470646813}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (37)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -2995,7 +2995,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1521655505}
   - component: {fileID: 1521655504}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (19)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3042,7 +3042,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1541661774}
   - component: {fileID: 1541661773}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (9)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3089,7 +3089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1631278185}
   - component: {fileID: 1631278184}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (25)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3136,7 +3136,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1753408292}
   - component: {fileID: 1753408291}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (23)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3183,7 +3183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1773382611}
   - component: {fileID: 1773382610}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (57)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3230,7 +3230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1792934360}
   - component: {fileID: 1792934359}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (56)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3277,7 +3277,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1866020599}
   - component: {fileID: 1866020598}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (51)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3433,7 +3433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1979233464}
   - component: {fileID: 1979233463}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (62)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3480,7 +3480,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2072253226}
   - component: {fileID: 2072253225}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (26)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3527,7 +3527,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2074028182}
   - component: {fileID: 2074028183}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (6)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3574,7 +3574,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2099714201}
   - component: {fileID: 2099714200}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (54)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3730,7 +3730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2123093892}
   - component: {fileID: 2123093893}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pose (7)
   m_TagString: Untagged
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
@@ -3794,7 +3794,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 41
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3822,7 +3822,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b94fdb28e19b554cbccb201d69cf6be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelGen: {fileID: 258675682}
 --- !u!81 &8666462817720600082
 AudioListener:
   m_ObjectHideFlags: 0
@@ -3858,7 +3857,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8666462817720600083}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 35, y: -5, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

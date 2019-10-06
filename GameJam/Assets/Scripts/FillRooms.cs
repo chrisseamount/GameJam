@@ -16,5 +16,9 @@ public class FillRooms : MonoBehaviour
             Instantiate(levelGen.rooms[rand], transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
+        else if (roomDetection != null && levelGen.stopGeneration == true)
+        {
+            Destroy(gameObject);
+        }
     }
 }
