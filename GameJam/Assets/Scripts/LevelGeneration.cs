@@ -60,7 +60,7 @@ public class LevelGeneration : MonoBehaviour
                 Vector2 newPos = new Vector2(transform.position.x + moveAmount, transform.position.y);
                 transform.position = newPos;
 
-                int rand = Random.Range(0, rooms.Length);
+                int rand = Random.Range(0, 4);
                 Instantiate(rooms[rand], transform.position, Quaternion.identity);
                 
 
@@ -87,7 +87,7 @@ public class LevelGeneration : MonoBehaviour
                 Vector2 newPos = new Vector2(transform.position.x - moveAmount, transform.position.y);
                 transform.position = newPos;
 
-                int rand = Random.Range(0, rooms.Length);
+                int rand = Random.Range(0, 4);
                 Instantiate(rooms[rand], transform.position, Quaternion.identity);
                 
 
